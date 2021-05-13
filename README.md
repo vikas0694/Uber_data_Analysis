@@ -2,6 +2,9 @@
 **Perform Data analysis with Uber datasets using Python**
 
 
+
+**make sure you have installed anaconda navigator**
+
 **Follow these simple steps  :-**
 
 1. Open terminal

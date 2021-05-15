@@ -2,7 +2,6 @@
 **Perform Data analysis with Uber datasets using Python**
 
 
-
 **make sure you have installed anaconda navigator**
 
 **Follow these simple steps  :-**
@@ -18,7 +17,7 @@
 **You all set** 
 
 
-## whats we have done In this project**
+## What we have done In this project
 
 
 **Analysis of journey by Week-days**

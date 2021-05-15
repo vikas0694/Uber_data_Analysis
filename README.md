@@ -18,3 +18,26 @@
 **You all set** 
 
 
+## whats we have done In this project**
+
+
+# Analysis of journey by Week-days
+
+# Analysis of journey by by Hour
+
+# Analysis of Rush of each hour in each month
+
+# Analysis of which month has max rides 
+
+# Analysis of Journey of Each Day
+
+# Analysis of Total rides month wise
+
+# Analysis Rush getting in hour 
+
+# Analyse which base number gets popular by month
+
+
+
+
+
